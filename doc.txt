@@ -1,0 +1,19 @@
+# Projeto integrador 
+
+    O projeto consiste em criar uma solução que resolva o/a problema/dor de alquém, propondo uma ideia inovadora ou melhorar algo que já exista no mercado.
+
+    # Nossa ideia
+
+        Nossa Solução será voltada as pessoas com pouco ou nem um conhecimento dos perifericos de informatica (hardware), trazendo usabilidade, facilitando o entendimento das específicações técnicas e sugerindo os melhores produtos para o contexto do usuário.
+
+        # Porque ?
+
+            Saber qual o melhor periferico para o si requer um conecimento que nem todos tem, afinal entender que uma memoria ram 3600mhz pode ou não ser melhor para você. O uso remete as suas nessecidades. 
+
+        # Como ?
+
+            Como solução, iremos usar suas nessecidades ao seu favor, proponto os itens que melhor encaixar ao seu contexto, filtrando por tecnologia, qualidades que forem relevantes e orçamento. Além de explicar com comparativo a outros produtos que se encaixar.
+
+        # O que ?
+
+            Para isso será desenvolvido uma aplicação Web (possivelmente mobile), que terá todos os aspectos propostos, com tendências ao seu uso, seu design e a interação do usuário. 
